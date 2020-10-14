@@ -3,7 +3,7 @@
 
 
 #### 👋 I’m currently learning ML, AL
-#### 📫 Email: yebiny@gmail.com
+#### 📫 Email: yebinyoun@gmail.com
   <div align=center>
 
 
