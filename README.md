@@ -3,8 +3,7 @@
 
 
 #### 👋 I’m currently learning ML, AL
-#### 📫 Email: yebinyoun@gmail.com
-  <div align=center>
+#### 📫 Email: yebinyoun@gmail.com<div align=center>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
