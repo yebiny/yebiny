@@ -1,5 +1,13 @@
-### 👋
-🌱 I’m currently learning ML, AL
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=YebinY's%20Github&fontSize=40)
+
+
+#### 👋 I’m currently learning ML, AL
+#### 📫 Email: yebiny@gmail.com
+  <div align=center>
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 <!--
 **yebiny/yebiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
