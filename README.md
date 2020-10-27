@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=YebinY's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=YebinY's%20Github&fontSize=20)
 
 
 #### 👋 I’m currently learning ML, AL
