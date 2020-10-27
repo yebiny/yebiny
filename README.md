@@ -1,12 +1,12 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=YebinY's%20Github&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=YebinY's%20Github&fontSize=25)
 
 
 #### 👋 I’m currently learning ML, AL
 #### 📫 Email: yebinyoun@gmail.com<div align=center>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
 
 <!--
 **yebiny/yebiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
