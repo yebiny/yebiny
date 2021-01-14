@@ -1,5 +1,5 @@
 
-![header](img.PNG)
+![header](astro.PNG)
 
   <!--
 **yebiny/yebiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
