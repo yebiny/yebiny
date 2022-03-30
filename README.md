@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 Education
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Apontamentos-Machine-Learning&theme=github_dark)](https://github.com/yebiny/SkillTreePython)
