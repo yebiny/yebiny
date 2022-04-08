@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ## :school: Education
 ### :snake: Python 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yebiny&repo=SkillTreePython&theme=github_dark)](https://github.com/yebiny/SkillTreePython)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yebiny&repo=SkillTreePython&theme=github_dark)](https://github.com/yebiny/SkillTreePython-DataAnalysis)
+
