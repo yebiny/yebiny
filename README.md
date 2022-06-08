@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yebiny&repo=SkillTreePython&theme=github_dark)](https://github.com/yebiny/SkillTreePython)
 ### 📊 DataAnalysis
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yebiny&repo=SkillTreePython-DataAnalysis&theme=github_dark)](https://github.com/yebiny/SkillTreePython-DataAnalysis)
-
+### 🎲 DeepLearning
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yebiny&repo=SkillTreePython-DataAnalysis&theme=github_dark)]([[https://github.com/yebiny/SkillTreePython-DataAnalysis](https://github.com/yebiny/SkillTreePython-DeepLearning)](https://github.com/yebiny/SkillTreePython-DeepLearning))
